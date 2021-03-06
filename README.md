@@ -2,7 +2,7 @@
 <h3 align="center">Hi there 👋</h3>
 
 :book: I’m currently learning FullStack Development <br>
-👯 I’m looking to collaborate on any project! <br>
+🙋‍♂️ I’m looking to collaborate on any project! <br>
 💬 Ask me about Competitive Programming, Python Programming <br>
 😄 Pronouns: Just call me whatever you feel confortable with :purple_heart: <br>
 🔭 I’m actually searching for a job! <br>
