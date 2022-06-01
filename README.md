@@ -7,7 +7,7 @@
 😄 Pronouns: Just call me whatever you feel confortable with :purple_heart: <br>
 🔭 I’m actually searching for a job! <br>
 ⚡ Fun fact: I love to teach! <br>
-📫 How to reach me: [![LinkedIn Badge](https://img.shields.io/badge/Ayrton%20Porto-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/ayrton-porto) [![Gmail Badge](https://img.shields.io/badge/-ayrton.porto@academico.ifpb.edu.br-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:ayrton.porto@academico.edu.br) [![HackerRank Badge](https://img.shields.io/badge/-@ayrtonporto-2EC866?style=flat-square&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/ayrtonporto) <br>
+📫 How to reach me: [![LinkedIn Badge](https://img.shields.io/badge/Ayrton%20Porto-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/ayrton-porto) <br>
 
 <h3>Languages and Tools:</h3>
 
