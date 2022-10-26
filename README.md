@@ -3,7 +3,6 @@
 <img width="50px" align="right" src="https://media.tenor.com/Aq4nnClR37AAAAAC/nervous-dog-spinning.gif" />
 <img width="50px" align="right" src="https://media.tenor.com/Aq4nnClR37AAAAAC/nervous-dog-spinning.gif" />
 <img width="50px" align="right" src="https://media.tenor.com/Aq4nnClR37AAAAAC/nervous-dog-spinning.gif" />
-<img width="50px" align="right" src="https://media.tenor.com/Aq4nnClR37AAAAAC/nervous-dog-spinning.gif" />
 
 <h1 align="left"> Ayrton Porto - Ikusa 戦 </h1>
 
