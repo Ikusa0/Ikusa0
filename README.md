@@ -1,5 +1,10 @@
 <img align="right" src="https://raw.githubusercontent.com/gist/Ikusa0/00ada35aa124ebdac8dc12fbb0ef77b3/raw/3d4d045e96d21809d6b75accc1d41c73b7eb7dfe/profile_card.svg" />
 
+<img width="50px" align="right" src="https://media.tenor.com/Aq4nnClR37AAAAAC/nervous-dog-spinning.gif" />
+<img width="50px" align="right" src="https://media.tenor.com/Aq4nnClR37AAAAAC/nervous-dog-spinning.gif" />
+<img width="50px" align="right" src="https://media.tenor.com/Aq4nnClR37AAAAAC/nervous-dog-spinning.gif" />
+<img width="50px" align="right" src="https://media.tenor.com/Aq4nnClR37AAAAAC/nervous-dog-spinning.gif" />
+
 <h1 align="left"> Ayrton Porto - Ikusa 戦 </h1>
 
 <img align="right" src="https://api.visitorbadge.io/api/visitors?path=github.com%2FIkusa0&labelColor=%23ff599e&countColor=%23202024" />
