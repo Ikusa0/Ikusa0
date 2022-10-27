@@ -4,7 +4,7 @@
 <img width="50px" align="right" src="https://media.tenor.com/Aq4nnClR37AAAAAi/nervous-dog-spinning.gif" />
 <img width="50px" align="right" src="https://media.tenor.com/Aq4nnClR37AAAAAi/nervous-dog-spinning.gif" />
 
-<h1 align="left"> Ayrton Porto - Ikusa 戦 </h1>
+<h1 align="left"> Ayrton Porto</h1>
 
 <img align="right" src="https://api.visitorbadge.io/api/visitors?path=github.com%2FIkusa0&labelColor=%23ff599e&countColor=%23202024" />
 
