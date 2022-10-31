@@ -14,8 +14,6 @@
 
 👨‍🎓 <a href="https://www.driven.com.br/" target="_blank"> Driven </a> → Finalizando a formação na Driven Education, finalmente um Desenvolvedor Web FullStack!!
 
-🎪 <a href="https://github.com/T6-Drivent" target="_blank"> Driven.t </a> → Projeto requisitado pela Driven! Um gerenciador de eventos (Ingressos, pagamentos, hospegadens...).
-
 ## Quem sou eu? 
 
 🧙‍♂️ Feiticeiro de magia selvagem mais forte do D&D. Qualquer contestação é mentirosa!
