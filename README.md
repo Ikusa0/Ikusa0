@@ -100,9 +100,9 @@
 ## GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Ikusa0&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&ring=5194F0&fire=5194F0&currStreakLabel=5194F0&theme=dracula" alt="ruineto-dev_contribution_streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Ikusa0&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&ring=5194F0&fire=5194F0&currStreakLabel=5194F0&theme=dracula" />
 
-  <img height="205em" alt="ruineto-dev stats" src="https://github-readme-stats.vercel.app/api?username=Ikusa0&show_icons=true&hide_border=true&theme=dracula" />
+  <img height="205em" src="https://github-readme-stats.vercel.app/api?username=Ikusa0&show_icons=true&hide_border=true&theme=dracula" />
 
-  <img height="205em" alt="ruineto-dev Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ikusa0&theme=dracula" />
+  <img height="205em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ikusa0&theme=dracula" />
 </div>
