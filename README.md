@@ -20,7 +20,7 @@
 
 🎭 Amante de música **Folk**.
 
-👨‍💻 Programador nas horas vagas ~~(pelo menos 40hr por semana)~~
+👨‍💻 Programador Web deveras habilidoso. (Júnior com muita motivação)
 
 ℹ Para mais informações, favor consultar linkedin
 
