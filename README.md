@@ -10,7 +10,7 @@
 
 <h3 align="left">No que estou trabalhando?</h3>
 
-💉 <a href="https://www.figma.com/file/zVqksuNGZiOAXT9VqVRWiZ/medicine" target="_blank"> Medicine Time </a> → Um trackeador de medicamentos, para auxiliar na compra e nos horários.
+💉 <a href="https://github.com/Ikusa0/MedicineTime" target="_blank"> Medicine Time </a> → Um trackeador de medicamentos, para auxiliar na compra e nos horários.
 
 👨‍🎓 <a href="https://www.driven.com.br/" target="_blank"> Driven </a> → Finalizando a formação na Driven Education, finalmente um Desenvolvedor Web FullStack!!
 
